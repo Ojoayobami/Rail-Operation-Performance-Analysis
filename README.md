@@ -234,3 +234,6 @@ Optimizing peak-hour operations, improving underperforming routes, and leveragin
 ---
 
 ## 📊 Main Dashboard
+
+<img width="1364" height="764" alt="image" src="https://github.com/user-attachments/assets/71ad935a-da87-426e-815b-83996e270cfb" />
+
