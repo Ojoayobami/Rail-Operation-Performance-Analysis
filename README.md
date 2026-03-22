@@ -135,7 +135,7 @@ This approach **quantified passenger demand patterns, evaluated revenue efficien
 
 ---
 
-## 📈 OVERALL PERFORMANCE  
+## 📈 Overall Performance
 
 The rail network demonstrates **stable passenger demand, strong route-level performance, and balanced system usage** across stations and payment channels.
 
@@ -155,7 +155,7 @@ This overview highlights key performance drivers and sets the foundation for dee
 
 ---
 
-## 💡 INSIGHTS & RECOMMENDATIONS  
+## 💡 Insights & Recommendations
 
 ### 📊 Demand & Time-Based Insights  
 
@@ -225,8 +225,12 @@ This overview highlights key performance drivers and sets the foundation for dee
 
 ---
 
-## 🚀 FINAL TAKEAWAY  
+## 🚀 Final Takeaway  
 
 The analysis reveals that **passenger demand is driven by morning commuter patterns, while revenue performance varies significantly across routes due to pricing and usage differences**.  
 
 Optimizing peak-hour operations, improving underperforming routes, and leveraging high-efficiency routes like Metro Rapid can significantly enhance overall system performance.
+
+---
+
+## 📊 Main Dashboard
